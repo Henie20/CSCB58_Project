@@ -12,11 +12,6 @@
 # - Display height in pixels: 512 (update this as needed)
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Link to video demonstration for final submission:
-# - https://drive.google.com/file/d/15nxaWjMXJu0TV_-RZRIY9Qp9CPZFAs-N/view?usp=sharing
-#
-# Any additional information that the TA needs to know:
-#
 #####################################################################
 
 ############### Contstants ################
